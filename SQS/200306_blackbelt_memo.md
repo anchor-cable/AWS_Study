@@ -1,7 +1,7 @@
 # 20190717 AWS Black Belt Online Seminar Amazon Simple Queue Service
 
 [YouTube](https://www.youtube.com/watch?v=avfc0gQ7X0A)  
-[スライド](https://www.slideshare.net/AmazonWebServicesJapan/20190717-aws-black-belt-online-seminar-amazon-simple-queue-service?ref=https://aws.amazon.com/)
+[スライド](https://www.slideshare.net/AmazonWebServicesJapan/20190717-aws-black-belt-online-seminar-amazon-simple-queue-service?ref=https://aws.amazon.com/)  
 [FAQ](https://aws.amazon.com/jp/sqs/faqs/)
 
 ## アプリケーションの柔軟性を高める
